@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.alibaba.nacos.plugin.enncryption;
+package com.alibaba.nacos.plugin.encryption;
 
 import com.alibaba.nacos.api.utils.StringUtils;
 import com.alibaba.nacos.common.codec.Base64;

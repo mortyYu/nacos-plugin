@@ -1,6 +1,5 @@
 package com.alibaba.nacos.plugin.encryption;
 
-import com.alibaba.nacos.plugin.enncryption.SM4EncryptionPluginService;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
